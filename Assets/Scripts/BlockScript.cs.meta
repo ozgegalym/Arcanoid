@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 24d3ec12e0f16594497ac15a4882ee3d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - blueBlockPrefab: {fileID: 2343594967133530879, guid: 6c338c799e3cfc243aba1d2e7864314b, type: 3}
+  - greenBlockPrefab: {fileID: 2899684069445193316, guid: 6b5ba36aab6388e40a89d135d855aaa1, type: 3}
+  - yellowBlockPrefab: {fileID: 7680540086412870995, guid: 4398bf717f70bc24e9e77f70d9d74267, type: 3}
+  - redBlockPrefab: {fileID: 1933697510459697864, guid: c6e87cb4afe91444ca45154302cda3db, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
